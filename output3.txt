@@ -1,0 +1,1373 @@
+id: "MTA NYCT_lmm:planned_work:150"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M72"
+  }
+  header_text {
+    translation {
+      text: "Eastbound M72 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound M72 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:151"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M66"
+  }
+  header_text {
+    translation {
+      text: "Eastbound M66 stop on 65th St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound M66 stop on 65th St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2072"
+alert {
+  active_period {
+    start: 1637470800
+    end: 1641186000
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M4"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q32"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M1"
+  }
+  header_text {
+    translation {
+      text: "Southbound M1/M1 LTD, M4/M4 LTD and Westbound Q32 buses will not stop on 5th Ave at 49th/50th St during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound M1/M1 LTD, M4/M4 LTD and Westbound Q32 buses will not stop on 5th Ave at 49th/50th St during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2075"
+alert {
+  active_period {
+    start: 1637470800
+    end: 1641186000
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M5"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M7"
+  }
+  header_text {
+    translation {
+      text: "Northbound M5/M5 LTD and M7 buses will not stop on 6th Ave at 49th St or 50th St during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound M5/M5 LTD and M7 buses will not stop on 6th Ave at 49th St or 50th St during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:154"
+alert {
+  active_period {
+    start: 1621828800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M57"
+  }
+  header_text {
+    translation {
+      text: "Eastbound M57 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound M57 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2074"
+alert {
+  active_period {
+    start: 1637470800
+    end: 1641186000
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M2"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M5"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M3"
+  }
+  header_text {
+    translation {
+      text: "Southbound M2/M2 LTD, M3 and M5/M5 LTD buses will not stop on 5th Ave at 50th St during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound M2/M2 LTD, M3 and M5/M5 LTD buses will not stop on 5th Ave at 50th St during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2070"
+alert {
+  active_period {
+    start: 1639474680
+    end: 1639544340
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M50"
+  }
+  header_text {
+    translation {
+      text: "Westbound M50 stop on W 49th St at 5th Ave is closed during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound M50 stop on W 49th St at 5th Ave is closed during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:155"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M5"
+  }
+  header_text {
+    translation {
+      text: "Southbound M5 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound M5 stop on 72nd St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:135"
+alert {
+  active_period {
+    start: 1621828800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "BX10"
+  }
+  header_text {
+    translation {
+      text: "Northbound Bx10 stop on East Gun Hill Rd at Bainbridge Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound Bx10 stop on East Gun Hill Rd at Bainbridge Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:158"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M15"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M15+"
+  }
+  header_text {
+    translation {
+      text: "Southbound M15/M15 SBS stop on 2nd Ave at 34th St has been relocated one block south across E 33rd St because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound M15/M15 SBS stop on 2nd Ave at 34th St has been relocated one block south across E 33rd St because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:895"
+alert {
+  active_period {
+    start: 1631505600
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B65"
+  }
+  header_text {
+    translation {
+      text: "Eastbound B65 stop on Dean St at 3rd Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound B65 stop on Dean St at 3rd Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:533"
+alert {
+  active_period {
+    start: 1627272000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM10"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM3C"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM3"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM1C"
+  }
+  header_text {
+    translation {
+      text: "Northbound SIM1C, SIM3, SIM3C, and SIM10 stop on 6th Ave at W 34th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound SIM1C, SIM3, SIM3C, and SIM10 stop on 6th Ave at W 34th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:995"
+alert {
+  active_period {
+    start: 1631592000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M22"
+  }
+  header_text {
+    translation {
+      text: "Eastbound M22 stop on Chambers St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound M22 stop on Chambers St at Broadway is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1575"
+alert {
+  active_period {
+    start: 1634616000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B67"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B62"
+  }
+  header_text {
+    translation {
+      text: "Westbound B62 and Southbound B67 stop on Jay St at Tillary St are closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound B62 and Southbound B67 stop on Jay St at Tillary St are closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1574"
+alert {
+  active_period {
+    start: 1634616000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B57"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B26"
+  }
+  header_text {
+    translation {
+      text: "Eastbound B26 and Westbound B57 stop on Jay St at Tillary St are closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound B26 and Westbound B57 stop on Jay St at Tillary St are closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2289"
+alert {
+  active_period {
+    start: 1639476300
+    end: 1639544386
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "X28"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "X27"
+  }
+  header_text {
+    translation {
+      text: "Southbound X27 and X28 buses will not stop on 5th Ave at W 52nd St during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound X27 and X28 buses will not stop on 5th Ave at W 52nd St during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:139"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "BX16"
+  }
+  header_text {
+    translation {
+      text: "Eastbound Bx16 stops on Bainbridge Ave at East 212th St and Jerome Ave are closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound Bx16 stops on Bainbridge Ave at East 212th St and Jerome Ave are closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2341"
+alert {
+  active_period {
+    start: 1639530000
+    end: 1639548000
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M86+"
+  }
+  header_text {
+    translation {
+      text: "Westbound M86-SBS stop on W 87th St at West End Ave will be closed for a film shoot"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound M86-SBS stop on W 87th St at West End Ave will be closed for a film shoot"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:140"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "BX3"
+  }
+  header_text {
+    translation {
+      text: "Northbound Bx3 stop on University Ave at 174th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound Bx3 stop on University Ave at 174th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2062"
+alert {
+  active_period {
+    start: 1639474680
+    end: 1639544340
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M50"
+  }
+  header_text {
+    translation {
+      text: "Eastbound M50 stop on 50th St at 6th Ave will be closed during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound M50 stop on 50th St at 6th Ave will be closed during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2083"
+alert {
+  active_period {
+    start: 1637038800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M20"
+  }
+  header_text {
+    translation {
+      text: "Northbound M20 stop on Hudson St at Spring St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound M20 stop on Hudson St at Spring St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:143"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "BX34"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "BXM4"
+  }
+  header_text {
+    translation {
+      text: "Northbound Bx34 and BxM4 stops on Bainbridge Ave at East 212th St and Jerome Ave are closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound Bx34 and BxM4 stops on Bainbridge Ave at East 212th St and Jerome Ave are closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2184"
+alert {
+  active_period {
+    start: 1638162000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q27"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q17"
+  }
+  header_text {
+    translation {
+      text: "Q17 and Q27 buses will be detoured in both directions from Main St and 138 St between 37th Ave and 39th Ave because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Q17 and Q27 buses will be detoured in both directions from Main St and 138 St between 37th Ave and 39th Ave because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:alert:114742"
+alert {
+  active_period {
+    start: 1639535100
+    end: 1639562400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M1"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M3"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M2"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M4"
+  }
+  header_text {
+    translation {
+      text: "Southbound M1, M2, M3, M4 , and northbound M2, M3, and M4 buses are bypassing the 110th St/Lenox Ave,"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound M1, M2, M3, M4 , and northbound M2, M3, and M4 buses are bypassing the 110th St/Lenox Ave,"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:968"
+alert {
+  active_period {
+    start: 1633060800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q24"
+  }
+  header_text {
+    translation {
+      text: "Eastbound Q24 stop on Archer Ave at Van Wyck Expy Service Road is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound Q24 stop on Archer Ave at Van Wyck Expy Service Road is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:alert:114708"
+alert {
+  active_period {
+    start: 1639518372
+    end: 1639544340
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B15"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B20"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B38"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B41"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B47"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B6"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B60"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B62"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q59"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "Q58"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B7"
+  }
+  header_text {
+    translation {
+      text: "You may experience a longer wait for this route. We\'re running as much service as we can with the operators we have available. Check bt.mta.info before you go."
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "You may experience a longer wait for this route. We\'re running as much service as we can with the operators we have available. Check bt.mta.info before you go."
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:122"
+alert {
+  active_period {
+    start: 1623038400
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM4C"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM33"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM7"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM3C"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM9"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "X28"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "X27"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "SIM1C"
+  }
+  header_text {
+    translation {
+      text: "Northbound SIM1C, SIM3C, SIM4C, SIM7, SIM9, SIM33, X27 and X28 drop-off on 6th Ave between 14th St and 15th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound SIM1C, SIM3C, SIM4C, SIM7, SIM9, SIM33, X27 and X28 drop-off on 6th Ave between 14th St and 15th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:144"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M101"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M102"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M103"
+  }
+  header_text {
+    translation {
+      text: "Northbound M101, M102 and M103 stop on 3rd Ave between 33rd St and 34th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound M101, M102 and M103 stop on 3rd Ave between 33rd St and 34th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1348"
+alert {
+  active_period {
+    start: 1633320000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B38"
+  }
+  header_text {
+    translation {
+      text: "B38 and B38 LTD buses are detoured between DeKalb Ave at St Nicholas Ave and Seneca Ave at Gates Ave because of utility work"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "B38 and B38 LTD buses are detoured between DeKalb Ave at St Nicholas Ave and Seneca Ave at Gates Ave because of utility work"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1865"
+alert {
+  active_period {
+    start: 1635825600
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M5"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M7"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M55"
+  }
+  header_text {
+    translation {
+      text: "Northbound M5, M7 and M55 stop on 6th Ave W 42nd St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound M5, M7 and M55 stop on 6th Ave W 42nd St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2337"
+alert {
+  active_period {
+    start: 1638939600
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "S40"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "S90"
+  }
+  header_text {
+    translation {
+      text: "S40 and S90 LTD stops at Frank W. Gay Blvd at Chelsea Rd/10th Ave are closed because of road congestion"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "S40 and S90 LTD stops at Frank W. Gay Blvd at Chelsea Rd/10th Ave are closed because of road congestion"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:146"
+alert {
+  active_period {
+    start: 1621915200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "BX36"
+  }
+  header_text {
+    translation {
+      text: "Eastbound Bx36 stop on University Ave at 174th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound Bx36 stop on University Ave at 174th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:740"
+alert {
+  active_period {
+    start: 1629432000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B70"
+  }
+  header_text {
+    translation {
+      text: "Southbound B70 bus stop on 37th at 4th Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound B70 bus stop on 37th at 4th Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:960"
+alert {
+  active_period {
+    start: 1631505600
+    end: 1643605200
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B64"
+  }
+  header_text {
+    translation {
+      text: "Southbound B64 stop on Harway Ave at Bay 50th St has been relocated to Stillwell Ave at Bay 50th St because of flood protection work on the Sea Beach Line"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound B64 stop on Harway Ave at Bay 50th St has been relocated to Stillwell Ave at Bay 50th St because of flood protection work on the Sea Beach Line"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1866"
+alert {
+  active_period {
+    start: 1635825600
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M5"
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "M7"
+  }
+  header_text {
+    translation {
+      text: "Northbound M5 and M7 stop on 6th Ave at W 54th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound M5 and M7 stop on 6th Ave at W 54th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:1784"
+alert {
+  active_period {
+    start: 1635757200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B38"
+  }
+  header_text {
+    translation {
+      text: "Eastbound B38 stop on Kossuth Pl at Bushwick Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound B38 stop on Kossuth Pl at Bushwick Ave is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2158"
+alert {
+  active_period {
+    start: 1638352800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B9"
+  }
+  header_text {
+    translation {
+      text: "Westbound B9 stop on 60th St at Bay Pkwy will be relocated because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound B9 stop on 60th St at Bay Pkwy will be relocated because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:964"
+alert {
+  active_period {
+    start: 1631160000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B36"
+  }
+  header_text {
+    translation {
+      text: "Westbound B36 stop on Surf Ave at W 17th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound B36 stop on Surf Ave at W 17th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTA NYCT_lmm:planned_work:2159"
+alert {
+  active_period {
+    start: 1638352800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTA NYCT"
+    route_id: "B6"
+  }
+  header_text {
+    translation {
+      text: "Westbound B6/B6 LTD stop on Bay Pkwy at 60th St will be relocated because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Westbound B6/B6 LTD stop on Bay Pkwy at 60th St will be relocated because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2277"
+alert {
+  active_period {
+    start: 1638766800
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q113"
+  }
+  header_text {
+    translation {
+      text: "Southbound Q113 stop on Mott Ave at Beach 20th St is closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound Q113 stop on Mott Ave at Beach 20th St is closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2007"
+alert {
+  active_period {
+    start: 1639371660
+    end: 1639717200
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM24"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM12"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM10"
+  }
+  header_text {
+    translation {
+      text: "Eastbound QM10, QM12 and QM24 stop on 6th Ave at 51st St has been relocated for the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound QM10, QM12 and QM24 stop on 6th Ave at 51st St has been relocated for the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2028"
+alert {
+  active_period {
+    start: 1639477800
+    end: 1639544340
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM5"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM6"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM1"
+  }
+  header_text {
+    translation {
+      text: "Eastbound QM1, QM5 and QM6 buses will not stop on 6th Ave at W 49th St during the holiday season"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound QM1, QM5 and QM6 buses will not stop on 6th Ave at W 49th St during the holiday season"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:1876"
+alert {
+  active_period {
+    start: 1635912000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q40"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q112"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q07"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q09"
+  }
+  header_text {
+    translation {
+      text: "Q7, Q9, Q41 and Q112 buses may experience delays because of construction on the Van Wyck Expy overpass at Rockaway Blvd"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Q7, Q9, Q41 and Q112 buses may experience delays because of construction on the Van Wyck Expy overpass at Rockaway Blvd"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:696"
+alert {
+  active_period {
+    start: 1629259200
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q101"
+  }
+  header_text {
+    translation {
+      text: "Q101 eastbound stop on 2nd Ave at 60th St has been permanently relocated to the Queensboro Bridge Exit Road between E 60th St and E 61st St"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Q101 eastbound stop on 2nd Ave at 60th St has been permanently relocated to the Queensboro Bridge Exit Road between E 60th St and E 61st St"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:233"
+alert {
+  active_period {
+    start: 1623038400
+    end: 1643605200
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "BXM1"
+  }
+  header_text {
+    translation {
+      text: "Northbound BxM1 stop on 3rd Ave at 86th St has been relocated to the BxM10 stop on 3rd Ave between 86th St and 87th St"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound BxM1 stop on 3rd Ave at 86th St has been relocated to the BxM10 stop on 3rd Ave between 86th St and 87th St"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:1538"
+alert {
+  active_period {
+    start: 1634184000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "BXM2"
+  }
+  header_text {
+    translation {
+      text: "Northbound BxM2 stop on Central Park South at 6th Ave has been relocated to 7th Ave in the M5/M7 stop"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound BxM2 stop on Central Park South at 6th Ave has been relocated to 7th Ave in the M5/M7 stop"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:alert:114738"
+alert {
+  active_period {
+    start: 1639533931
+    end: 1639548000
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "BXM6"
+  }
+  header_text {
+    translation {
+      text: "The BxM6 trips departing Midtown at 10:15 PM and 12:10 AM as well as departing Parkchester at 11:00 PM will not run."
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "The BxM6 trips departing Midtown at 10:15 PM and 12:10 AM as well as departing Parkchester at 11:00 PM will not run."
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2276"
+alert {
+  active_period {
+    start: 1638939600
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q22"
+  }
+  header_text {
+    translation {
+      text: "Eastbound Q22  buses will be detoured from Cornaga Ave at Beach 21st St to Beach 20th St at Mott Ave because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Eastbound Q22  buses will be detoured from Cornaga Ave at Beach 21st St to Beach 20th St at Mott Ave because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2331"
+alert {
+  active_period {
+    start: 1639533600
+    end: 1639566000
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q114"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q113"
+  }
+  header_text {
+    translation {
+      text: "Northbound Q113 and Q114 stop on Mott Ave at Central Ave will be closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Northbound Q113 and Q114 stop on Mott Ave at Central Ave will be closed because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:521"
+alert {
+  active_period {
+    start: 1626840000
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM10"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM12"
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "QM24"
+  }
+  header_text {
+    translation {
+      text: "QM10, QM12 and QM24 stop on 6th Ave at W 35th St is closed in both directions because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "QM10, QM12 and QM24 stop on 6th Ave at W 35th St is closed in both directions because of construction"
+      language: "EN"
+    }
+  }
+}
+id: "MTABC_lmm:planned_work:2275"
+alert {
+  active_period {
+    start: 1638615660
+    end: 1655078400
+  }
+  informed_entity {
+    agency_id: "MTABC"
+    route_id: "Q114"
+  }
+  header_text {
+    translation {
+      text: "Southbound Q114 stops on Mott Ave at Beach Channel Drive and Beach 20th St are closed because of construction"
+      language: "EN"
+    }
+  }
+  description_text {
+    translation {
+      text: "Southbound Q114 stops on Mott Ave at Beach Channel Drive and Beach 20th St are closed because of construction"
+      language: "EN"
+    }
+  }
+}

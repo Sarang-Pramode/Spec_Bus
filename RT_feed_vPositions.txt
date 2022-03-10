@@ -1,0 +1,3591 @@
+id: "MTA NYCT_7117"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018000_B15_106"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.66656
+    longitude: -73.922615
+    bearing: 283.93307
+  }
+  timestamp: 1646900259
+  stop_id: "301123"
+  vehicle {
+    id: "MTA NYCT_7117"
+  }
+}
+id: "MTA NYCT_7102"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018300_B25_201"
+    start_date: "20220310"
+    route_id: "B25"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.681614
+    longitude: -73.95806
+    bearing: 168.19757
+  }
+  timestamp: 1646900260
+  stop_id: "302418"
+  vehicle {
+    id: "MTA NYCT_7102"
+  }
+}
+id: "MTA NYCT_7100"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-015000_B15_104"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.662125
+    longitude: -73.81789
+    bearing: 350.2176
+  }
+  timestamp: 1646900236
+  stop_id: "503802"
+  vehicle {
+    id: "MTA NYCT_7100"
+  }
+}
+id: "MTA NYCT_7130"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-159000_B12_29"
+    start_date: "20220309"
+    route_id: "B15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.68039
+    longitude: -73.93453
+    bearing: 102.52881
+  }
+  timestamp: 1646900239
+  stop_id: "301078"
+  vehicle {
+    id: "MTA NYCT_7130"
+  }
+}
+id: "MTA NYCT_7133"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019500_B15_102"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.646305
+    longitude: -73.80033
+    bearing: 146.68936
+  }
+  timestamp: 1646900249
+  stop_id: "503996"
+  vehicle {
+    id: "MTA NYCT_7133"
+  }
+}
+id: "MTA NYCT_7161"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-020000_B3_101"
+    start_date: "20220310"
+    route_id: "B3"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.59376
+    longitude: -73.991516
+    bearing: 43.72199
+  }
+  timestamp: 1646900265
+  stop_id: "300185"
+  vehicle {
+    id: "MTA NYCT_7161"
+  }
+}
+id: "MTA NYCT_7167"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-018000_B1_2"
+    start_date: "20220310"
+    route_id: "B1"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.60027
+    longitude: -73.99112
+    bearing: 149.85861
+  }
+  timestamp: 1646900266
+  stop_id: "300034"
+  vehicle {
+    id: "MTA NYCT_7167"
+  }
+}
+id: "MTA NYCT_9739"
+vehicle {
+  trip {
+    trip_id: "MV_A2-Weekday-SDon-018000_M96_801"
+    start_date: "20220310"
+    route_id: "M96"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.78409
+    longitude: -73.9446
+    bearing: 156.66595
+  }
+  timestamp: 1646900247
+  stop_id: "903003"
+  vehicle {
+    id: "MTA NYCT_9739"
+  }
+}
+id: "MTA NYCT_4875"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-017200_B36_401"
+    start_date: "20220310"
+    route_id: "B36"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.57282
+    longitude: -73.99531
+    bearing: 186.21564
+  }
+  timestamp: 1646900236
+  stop_id: "302866"
+  vehicle {
+    id: "MTA NYCT_4875"
+  }
+}
+id: "MTA NYCT_4894"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-018000_B6_203"
+    start_date: "20220310"
+    route_id: "B6"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.632717
+    longitude: -73.952835
+    bearing: 100.90502
+  }
+  timestamp: 1646900240
+  stop_id: "300538"
+  vehicle {
+    id: "MTA NYCT_4894"
+  }
+}
+id: "MTA NYCT_8392"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-020000_BX9_602"
+    start_date: "20220310"
+    route_id: "BX9"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.910183
+    longitude: -73.8966
+    bearing: 272.96094
+  }
+  timestamp: 1646900235
+  stop_id: "100608"
+  vehicle {
+    id: "MTA NYCT_8392"
+  }
+}
+id: "MTA NYCT_4810"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-014000_B82_602"
+    start_date: "20220310"
+    route_id: "B82"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.642963
+    longitude: -73.87825
+    bearing: 235.51605
+  }
+  timestamp: 1646900238
+  stop_id: "304083"
+  vehicle {
+    id: "MTA NYCT_4810"
+  }
+}
+id: "MTA NYCT_4815"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019000_B12_1"
+    start_date: "20220310"
+    route_id: "B12"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.65821
+    longitude: -73.93954
+    bearing: 95.35583
+  }
+  timestamp: 1646900266
+  stop_id: "301320"
+  vehicle {
+    id: "MTA NYCT_4815"
+  }
+}
+id: "MTA NYCT_4816"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018000_Q24_402"
+    start_date: "20220310"
+    route_id: "Q56"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.699352
+    longitude: -73.83278
+    bearing: 208.30075
+  }
+  timestamp: 1646900258
+  stop_id: "503422"
+  vehicle {
+    id: "MTA NYCT_4816"
+  }
+}
+id: "MTA NYCT_4823"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-014000_B82_601"
+    start_date: "20220310"
+    route_id: "B82"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.576996
+    longitude: -73.98484
+    bearing: 281.04095
+  }
+  timestamp: 1646900255
+  stop_id: "302799"
+  vehicle {
+    id: "MTA NYCT_4823"
+  }
+}
+id: "MTA NYCT_4829"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019000_Q56_451"
+    start_date: "20220310"
+    route_id: "Q24"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.683887
+    longitude: -73.91223
+    bearing: 330.2773
+  }
+  timestamp: 1646900254
+  stop_id: "302019"
+  vehicle {
+    id: "MTA NYCT_4829"
+  }
+}
+id: "MTA NYCT_4846"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018000_B15_101"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.66758
+    longitude: -73.87081
+    bearing: 216.8699
+  }
+  timestamp: 1646900249
+  stop_id: "301034"
+  vehicle {
+    id: "MTA NYCT_4846"
+  }
+}
+id: "MTA NYCT_4848"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018700_B14_701"
+    start_date: "20220310"
+    route_id: "B14"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.668743
+    longitude: -73.89939
+    bearing: 8.534723
+  }
+  timestamp: 1646900247
+  stop_id: "301536"
+  vehicle {
+    id: "MTA NYCT_4848"
+  }
+}
+id: "MTA NYCT_259"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-015000_B43_451"
+    start_date: "20220310"
+    route_id: "B43"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.737503
+    longitude: -73.95624
+    bearing: 208.93582
+  }
+  timestamp: 1646900262
+  stop_id: "305286"
+  vehicle {
+    id: "MTA NYCT_259"
+  }
+}
+id: "MTA NYCT_4192"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-017000_Q20_252"
+    start_date: "20220310"
+    route_id: "Q20A"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.756363
+    longitude: -73.8287
+    bearing: 111.28017
+  }
+  timestamp: 1646900250
+  stop_id: "502183"
+  vehicle {
+    id: "MTA NYCT_4192"
+  }
+}
+id: "MTA NYCT_268"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-018500_BX6_101"
+    start_date: "20220310"
+    route_id: "BX6"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.82381
+    longitude: -73.90777
+    bearing: 162.85445
+  }
+  timestamp: 1646900241
+  stop_id: "103910"
+  vehicle {
+    id: "MTA NYCT_268"
+  }
+}
+id: "MTA NYCT_8551"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-018000_BX10_702"
+    start_date: "20220310"
+    route_id: "BX10"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.87966
+    longitude: -73.90629
+    bearing: 153.43495
+  }
+  timestamp: 1646900259
+  stop_id: "100066"
+  vehicle {
+    id: "MTA NYCT_8551"
+  }
+}
+id: "MTA NYCT_8582"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-017000_S6292_473"
+    start_date: "20220310"
+    route_id: "S62"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.637867
+    longitude: -74.077255
+    bearing: 340.641
+  }
+  timestamp: 1646900254
+  stop_id: "905002"
+  vehicle {
+    id: "MTA NYCT_8582"
+  }
+}
+id: "MTA NYCT_7255"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-017800_B1_1"
+    start_date: "20220310"
+    route_id: "B1"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.590183
+    longitude: -73.97334
+    bearing: 6.170175
+  }
+  timestamp: 1646900259
+  stop_id: "300113"
+  vehicle {
+    id: "MTA NYCT_7255"
+  }
+}
+id: "MTA NYCT_7253"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-016500_B48_501"
+    start_date: "20220310"
+    route_id: "B48"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.724445
+    longitude: -73.948715
+    bearing: 18.246742
+  }
+  timestamp: 1646900239
+  stop_id: "303833"
+  vehicle {
+    id: "MTA NYCT_7253"
+  }
+}
+id: "MTA NYCT_285"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-018000_BX27_501"
+    start_date: "20220310"
+    route_id: "BX27"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.829395
+    longitude: -73.87456
+    bearing: 101.72511
+  }
+  timestamp: 1646900236
+  stop_id: "101794"
+  vehicle {
+    id: "MTA NYCT_285"
+  }
+}
+id: "MTA NYCT_294"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-019500_BX19_302"
+    start_date: "20220310"
+    route_id: "BX19"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.82226
+    longitude: -73.94058
+    bearing: 336.86285
+  }
+  timestamp: 1646900239
+  stop_id: "403687"
+  vehicle {
+    id: "MTA NYCT_294"
+  }
+}
+id: "MTA NYCT_4121"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-019000_M101_6"
+    start_date: "20220310"
+    route_id: "M101"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.84024
+    longitude: -73.93663
+    bearing: 234.63754
+  }
+  timestamp: 1646900264
+  stop_id: "402774"
+  vehicle {
+    id: "MTA NYCT_4121"
+  }
+}
+id: "MTA NYCT_4124"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-017200_M101_7"
+    start_date: "20220310"
+    route_id: "M103"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.743874
+    longitude: -73.98156
+    bearing: 233.89043
+  }
+  timestamp: 1646900245
+  stop_id: "402851"
+  vehicle {
+    id: "MTA NYCT_4124"
+  }
+}
+id: "MTA NYCT_8504"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019500_Q2_51"
+    start_date: "20220310"
+    route_id: "Q2"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.711983
+    longitude: -73.78846
+    bearing: 348.11133
+  }
+  timestamp: 1646900260
+  stop_id: "505284"
+  vehicle {
+    id: "MTA NYCT_8504"
+  }
+}
+id: "MTA NYCT_7212"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-018000_B60_701"
+    start_date: "20220310"
+    route_id: "B60"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.68515
+    longitude: -73.91053
+    bearing: 149.83994
+  }
+  timestamp: 1646900252
+  stop_id: "301982"
+  vehicle {
+    id: "MTA NYCT_7212"
+  }
+}
+id: "MTA NYCT_8546"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-019900_BX9_601"
+    start_date: "20220310"
+    route_id: "BX9"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.839893
+    longitude: -73.87817
+    bearing: 0.0
+  }
+  timestamp: 1646900264
+  stop_id: "104238"
+  vehicle {
+    id: "MTA NYCT_8546"
+  }
+}
+id: "MTA NYCT_7216"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-018000_B60_702"
+    start_date: "20220310"
+    route_id: "B60"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.682945
+    longitude: -73.91175
+    bearing: 280.71313
+  }
+  timestamp: 1646900244
+  stop_id: "305058"
+  vehicle {
+    id: "MTA NYCT_7216"
+  }
+}
+id: "MTA NYCT_239"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-017800_B8_101"
+    start_date: "20220310"
+    route_id: "B8"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.63843
+    longitude: -73.952736
+    bearing: 179.86014
+  }
+  timestamp: 1646900252
+  stop_id: "300875"
+  vehicle {
+    id: "MTA NYCT_239"
+  }
+}
+id: "MTA NYCT_8537"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-018200_Q83_651"
+    start_date: "20220310"
+    route_id: "Q83"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.70239
+    longitude: -73.79238
+    bearing: 169.1597
+  }
+  timestamp: 1646900265
+  stop_id: "503671"
+  vehicle {
+    id: "MTA NYCT_8537"
+  }
+}
+id: "MTA NYCT_8538"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-017000_Q27_401"
+    start_date: "20220310"
+    route_id: "Q27"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.753822
+    longitude: -73.799194
+    bearing: 183.60757
+  }
+  timestamp: 1646900247
+  stop_id: "501565"
+  vehicle {
+    id: "MTA NYCT_8538"
+  }
+}
+id: "MTA NYCT_8530"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019000_Q43_551"
+    start_date: "20220310"
+    route_id: "Q43"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.710976
+    longitude: -73.792305
+    bearing: 19.746836
+  }
+  timestamp: 1646900253
+  stop_id: "500004"
+  vehicle {
+    id: "MTA NYCT_8530"
+  }
+}
+id: "MTA NYCT_7204"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-018200_Q59_902"
+    start_date: "20220310"
+    route_id: "Q59"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.721138
+    longitude: -73.906364
+    bearing: 199.62666
+  }
+  timestamp: 1646900266
+  stop_id: "504072"
+  vehicle {
+    id: "MTA NYCT_7204"
+  }
+}
+id: "MTA NYCT_8528"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019000_Q1_1"
+    start_date: "20220310"
+    route_id: "Q1"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.71231
+    longitude: -73.78518
+    bearing: 13.570435
+  }
+  timestamp: 1646900261
+  stop_id: "500007"
+  vehicle {
+    id: "MTA NYCT_8528"
+  }
+}
+id: "MTA NYCT_240"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-019400_B68_951"
+    start_date: "20220310"
+    route_id: "B68"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.649895
+    longitude: -73.971855
+    bearing: 285.81302
+  }
+  timestamp: 1646900243
+  stop_id: "305740"
+  vehicle {
+    id: "MTA NYCT_240"
+  }
+}
+id: "MTA NYCT_7198"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-020000_B62_802"
+    start_date: "20220310"
+    route_id: "B62"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.690582
+    longitude: -73.98816
+    bearing: 339.77515
+  }
+  timestamp: 1646900238
+  stop_id: "306960"
+  vehicle {
+    id: "MTA NYCT_7198"
+  }
+}
+id: "MTA NYCT_9520"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-018000_B17_751"
+    start_date: "20220310"
+    route_id: "B17"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.637665
+    longitude: -73.88356
+    bearing: 33.416748
+  }
+  timestamp: 1646900245
+  stop_id: "901495"
+  vehicle {
+    id: "MTA NYCT_9520"
+  }
+}
+id: "MTA NYCT_9525"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019500_B15_107"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.688694
+    longitude: -73.93919
+    bearing: 281.0996
+  }
+  timestamp: 1646900254
+  stop_id: "301101"
+  vehicle {
+    id: "MTA NYCT_9525"
+  }
+}
+id: "MTA NYCT_9547"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-018500_B47_401"
+    start_date: "20220310"
+    route_id: "B47"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.677784
+    longitude: -73.921745
+    bearing: 265.25604
+  }
+  timestamp: 1646900243
+  stop_id: "308116"
+  vehicle {
+    id: "MTA NYCT_9547"
+  }
+}
+id: "MTA NYCT_8208"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-018000_MISC_205"
+    start_date: "20220310"
+    route_id: "S51"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.62723
+    longitude: -74.07598
+    bearing: 120.465546
+  }
+  timestamp: 1646900259
+  stop_id: "200148"
+  vehicle {
+    id: "MTA NYCT_8208"
+  }
+}
+id: "MTA NYCT_8248"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-017000_MISC_204"
+    start_date: "20220310"
+    route_id: "S53"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.63364
+    longitude: -74.12878
+    bearing: 185.33215
+  }
+  timestamp: 1646900262
+  stop_id: "200315"
+  vehicle {
+    id: "MTA NYCT_8248"
+  }
+}
+id: "MTA NYCT_9563"
+vehicle {
+  trip {
+    trip_id: "OF_A2-Weekday-SDon-016500_M7_202"
+    start_date: "20220310"
+    route_id: "M7"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.808228
+    longitude: -73.94507
+    bearing: 52.696053
+  }
+  timestamp: 1646900261
+  stop_id: "401051"
+  vehicle {
+    id: "MTA NYCT_9563"
+  }
+}
+id: "MTA NYCT_9582"
+vehicle {
+  trip {
+    trip_id: "OF_A2-Weekday-SDon-016000_M7_201"
+    start_date: "20220310"
+    route_id: "M7"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.74365
+    longitude: -73.99597
+    bearing: 233.95247
+  }
+  timestamp: 1646900255
+  stop_id: "401366"
+  vehicle {
+    id: "MTA NYCT_9582"
+  }
+}
+id: "MTA NYCT_8255"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-016700_S53_90"
+    start_date: "20220310"
+    route_id: "S53"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.60808
+    longitude: -74.03987
+    bearing: 17.91251
+  }
+  timestamp: 1646900255
+  stop_id: "307203"
+  vehicle {
+    id: "MTA NYCT_8255"
+  }
+}
+id: "MTA NYCT_7748"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-017000_Q58_802"
+    start_date: "20220310"
+    route_id: "Q58"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.743862
+    longitude: -73.85681
+    bearing: 354.70993
+  }
+  timestamp: 1646900248
+  stop_id: "503488"
+  vehicle {
+    id: "MTA NYCT_7748"
+  }
+}
+id: "MTA NYCT_7741"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-017400_Q54_703"
+    start_date: "20220310"
+    route_id: "Q54"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.71129
+    longitude: -73.856224
+    bearing: 351.5138
+  }
+  timestamp: 1646900239
+  stop_id: "504275"
+  vehicle {
+    id: "MTA NYCT_7741"
+  }
+}
+id: "MTA NYCT_7737"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-020000_Q24_401"
+    start_date: "20220310"
+    route_id: "Q24"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.705803
+    longitude: -73.79412
+    bearing: 202.34065
+  }
+  timestamp: 1646900253
+  stop_id: "504535"
+  vehicle {
+    id: "MTA NYCT_7737"
+  }
+}
+id: "MTA NYCT_780"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-018000_B61_801"
+    start_date: "20220310"
+    route_id: "B61"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.673634
+    longitude: -74.01033
+    bearing: 63.434948
+  }
+  timestamp: 1646900256
+  stop_id: "306086"
+  vehicle {
+    id: "MTA NYCT_780"
+  }
+}
+id: "MTA NYCT_7768"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-017200_Q5_201"
+    start_date: "20220310"
+    route_id: "Q5"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.673992
+    longitude: -73.73521
+    bearing: 334.9538
+  }
+  timestamp: 1646900265
+  stop_id: "500561"
+  vehicle {
+    id: "MTA NYCT_7768"
+  }
+}
+id: "MTA NYCT_7792"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019000_B42_501"
+    start_date: "20220310"
+    route_id: "B42"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.64574
+    longitude: -73.90157
+    bearing: 169.88795
+  }
+  timestamp: 1646900257
+  stop_id: "303345"
+  vehicle {
+    id: "MTA NYCT_7792"
+  }
+}
+id: "MTA NYCT_701"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-019500_BX35_851"
+    start_date: "20220310"
+    route_id: "BX35"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.848633
+    longitude: -73.93212
+    bearing: 337.38693
+  }
+  timestamp: 1646900258
+  stop_id: "403658"
+  vehicle {
+    id: "MTA NYCT_701"
+  }
+}
+id: "MTA NYCT_723"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-015000_BX36_701"
+    start_date: "20220310"
+    route_id: "BX36"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.82052
+    longitude: -73.85153
+    bearing: 283.59094
+  }
+  timestamp: 1646900253
+  stop_id: "102411"
+  vehicle {
+    id: "MTA NYCT_723"
+  }
+}
+id: "MTA NYCT_741"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-019100_BX6_102"
+    start_date: "20220310"
+    route_id: "BX6"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.823807
+    longitude: -73.912575
+    bearing: 342.75854
+  }
+  timestamp: 1646900248
+  stop_id: "100369"
+  vehicle {
+    id: "MTA NYCT_741"
+  }
+}
+id: "MTA NYCT_4691"
+vehicle {
+  trip {
+    trip_id: "MV_A2-Weekday-SDon-019000_M2_201"
+    start_date: "20220310"
+    route_id: "M2"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.828487
+    longitude: -73.935646
+    bearing: 337.38013
+  }
+  timestamp: 1646900265
+  stop_id: "400271"
+  vehicle {
+    id: "MTA NYCT_4691"
+  }
+}
+id: "MTA NYCT_8160"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-014000_S78_231"
+    start_date: "20220310"
+    route_id: "S78"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.633392
+    longitude: -74.07657
+    bearing: 63.434948
+  }
+  timestamp: 1646900261
+  stop_id: "201066"
+  vehicle {
+    id: "MTA NYCT_8160"
+  }
+}
+id: "MTA NYCT_8153"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-018000_S7484_211"
+    start_date: "20220310"
+    route_id: "S74"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.562286
+    longitude: -74.173515
+    bearing: 337.155
+  }
+  timestamp: 1646900239
+  stop_id: "905046"
+  vehicle {
+    id: "MTA NYCT_8153"
+  }
+}
+id: "MTA NYCT_8170"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-017000_S78_232"
+    start_date: "20220310"
+    route_id: "S78"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.556183
+    longitude: -74.12841
+    bearing: 42.24089
+  }
+  timestamp: 1646900249
+  stop_id: "201012"
+  vehicle {
+    id: "MTA NYCT_8170"
+  }
+}
+id: "MTA NYCT_8175"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-018000_MISC_101"
+    start_date: "20220310"
+    route_id: "S74"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.594276
+    longitude: -74.09911
+    bearing: 210.01837
+  }
+  timestamp: 1646900264
+  stop_id: "201662"
+  vehicle {
+    id: "MTA NYCT_8175"
+  }
+}
+id: "MTA NYCT_8193"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-018000_MISC_203"
+    start_date: "20220310"
+    route_id: "S51"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.57189
+    longitude: -74.09234
+    bearing: 151.8868
+  }
+  timestamp: 1646900257
+  stop_id: "203482"
+  vehicle {
+    id: "MTA NYCT_8193"
+  }
+}
+id: "MTA NYCT_4615"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-018200_B44_301"
+    start_date: "20220310"
+    route_id: "B44"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.6371
+    longitude: -73.94519
+    bearing: 95.498405
+  }
+  timestamp: 1646900249
+  stop_id: "303384"
+  vehicle {
+    id: "MTA NYCT_4615"
+  }
+}
+id: "MTA NYCT_9648"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-018000_BX10_701"
+    start_date: "20220310"
+    route_id: "BX10"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.88265
+    longitude: -73.89268
+    bearing: 315.0
+  }
+  timestamp: 1646900264
+  stop_id: "103954"
+  vehicle {
+    id: "MTA NYCT_9648"
+  }
+}
+id: "MTA NYCT_9694"
+vehicle {
+  trip {
+    trip_id: "MV_A2-Weekday-SDon-013000_M2_202"
+    start_date: "20220310"
+    route_id: "M2"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.73029
+    longitude: -73.99059
+    bearing: 73.663956
+  }
+  timestamp: 1646900249
+  stop_id: "400001"
+  vehicle {
+    id: "MTA NYCT_9694"
+  }
+}
+id: "MTA NYCT_7029"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-017000_S4090_3"
+    start_date: "20220310"
+    route_id: "S40"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.64308
+    longitude: -74.112915
+    bearing: 8.130102
+  }
+  timestamp: 1646900261
+  stop_id: "200035"
+  vehicle {
+    id: "MTA NYCT_7029"
+  }
+}
+id: "MTA NYCT_9601"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-019800_M42_301"
+    start_date: "20220310"
+    route_id: "M42"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.762016
+    longitude: -74.00122
+    bearing: 342.25534
+  }
+  timestamp: 1646900259
+  stop_id: "401812"
+  vehicle {
+    id: "MTA NYCT_9601"
+  }
+}
+id: "MTA NYCT_9628"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-015000_M15_202"
+    start_date: "20220310"
+    route_id: "M15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.70163
+    longitude: -74.01182
+    bearing: 191.82149
+  }
+  timestamp: 1646900247
+  stop_id: "803002"
+  vehicle {
+    id: "MTA NYCT_9628"
+  }
+}
+id: "MTA NYCT_9615"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-020200_SB79_651"
+    start_date: "20220310"
+    route_id: "M79+"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.771088
+    longitude: -73.949745
+    bearing: 157.19843
+  }
+  timestamp: 1646900243
+  stop_id: "401881"
+  vehicle {
+    id: "MTA NYCT_9615"
+  }
+}
+id: "MTA NYCT_7805"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-017000_B26_201"
+    start_date: "20220310"
+    route_id: "B52"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.693867
+    longitude: -73.99044
+    bearing: 100.06069
+  }
+  timestamp: 1646900253
+  stop_id: "307175"
+  vehicle {
+    id: "MTA NYCT_7805"
+  }
+}
+id: "MTA NYCT_7808"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-019700_Q55_501"
+    start_date: "20220310"
+    route_id: "Q55"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.70041
+    longitude: -73.83536
+    bearing: 173.54118
+  }
+  timestamp: 1646900249
+  stop_id: "504434"
+  vehicle {
+    id: "MTA NYCT_7808"
+  }
+}
+id: "MTA NYCT_7824"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-019000_B47_402"
+    start_date: "20220310"
+    route_id: "B47"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.63362
+    longitude: -73.91877
+    bearing: 96.68523
+  }
+  timestamp: 1646900242
+  stop_id: "306159"
+  vehicle {
+    id: "MTA NYCT_7824"
+  }
+}
+id: "MTA NYCT_7826"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-015000_B62_801"
+    start_date: "20220310"
+    route_id: "B62"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.749744
+    longitude: -73.93906
+    bearing: 49.391144
+  }
+  timestamp: 1646900264
+  stop_id: "504413"
+  vehicle {
+    id: "MTA NYCT_7826"
+  }
+}
+id: "MTA NYCT_7820"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-014500_B52_302"
+    start_date: "20220310"
+    route_id: "B26"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.699337
+    longitude: -73.91071
+    bearing: 330.08307
+  }
+  timestamp: 1646900240
+  stop_id: "304417"
+  vehicle {
+    id: "MTA NYCT_7820"
+  }
+}
+id: "MTA NYCT_7814"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-019300_B52_301"
+    start_date: "20220310"
+    route_id: "B52"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.69159
+    longitude: -73.98774
+    bearing: 338.87363
+  }
+  timestamp: 1646900244
+  stop_id: "302945"
+  vehicle {
+    id: "MTA NYCT_7814"
+  }
+}
+id: "MTA NYCT_7811"
+vehicle {
+  trip {
+    trip_id: "FP_A2-Weekday-SDon-016500_B54_401"
+    start_date: "20220310"
+    route_id: "B54"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.694492
+    longitude: -73.9872
+    bearing: 86.18593
+  }
+  timestamp: 1646900237
+  stop_id: "308472"
+  vehicle {
+    id: "MTA NYCT_7811"
+  }
+}
+id: "MTA NYCT_7840"
+vehicle {
+  trip {
+    trip_id: "UP_A2-Weekday-SDon-014800_B6_202"
+    start_date: "20220310"
+    route_id: "B6"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.59958
+    longitude: -73.99622
+    bearing: 223.5132
+  }
+  timestamp: 1646900261
+  stop_id: "300493"
+  vehicle {
+    id: "MTA NYCT_7840"
+  }
+}
+id: "MTA NYCT_7833"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-018300_Q59_903"
+    start_date: "20220310"
+    route_id: "Q59"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.719498
+    longitude: -73.91176
+    bearing: 15.376251
+  }
+  timestamp: 1646900240
+  stop_id: "503750"
+  vehicle {
+    id: "MTA NYCT_7833"
+  }
+}
+id: "MTA NYCT_4711"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-017500_B38_201"
+    start_date: "20220310"
+    route_id: "B38"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.691685
+    longitude: -73.94862
+    bearing: 186.68497
+  }
+  timestamp: 1646900264
+  stop_id: "303087"
+  vehicle {
+    id: "MTA NYCT_4711"
+  }
+}
+id: "MTA NYCT_4718"
+vehicle {
+  trip {
+    trip_id: "GA_A2-Weekday-SDon-017600_B38_202"
+    start_date: "20220310"
+    route_id: "B38"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.690228
+    longitude: -73.948235
+    bearing: 6.813588
+  }
+  timestamp: 1646900256
+  stop_id: "303028"
+  vehicle {
+    id: "MTA NYCT_4718"
+  }
+}
+id: "MTA NYCT_4480"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-019200_Q28_652"
+    start_date: "20220310"
+    route_id: "Q28"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.770473
+    longitude: -73.78672
+    bearing: 196.63881
+  }
+  timestamp: 1646900251
+  stop_id: "501755"
+  vehicle {
+    id: "MTA NYCT_4480"
+  }
+}
+id: "MTA NYCT_7503"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-160900_MISC_888"
+    start_date: "20220309"
+    route_id: "Q85"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.701538
+    longitude: -73.80377
+    bearing: 189.68878
+  }
+  timestamp: 1646900244
+  stop_id: "504470"
+  vehicle {
+    id: "MTA NYCT_7503"
+  }
+}
+id: "MTA NYCT_7507"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-019600_Q4_101"
+    start_date: "20220310"
+    route_id: "Q4"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.702194
+    longitude: -73.800934
+    bearing: 15.01294
+  }
+  timestamp: 1646900256
+  stop_id: "504470"
+  vehicle {
+    id: "MTA NYCT_7507"
+  }
+}
+id: "MTA NYCT_7572"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-018400_SBS14_702"
+    start_date: "20220310"
+    route_id: "M14A+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.721603
+    longitude: -73.98663
+    bearing: 242.38698
+  }
+  timestamp: 1646900243
+  stop_id: "403318"
+  vehicle {
+    id: "MTA NYCT_7572"
+  }
+}
+id: "MTA NYCT_3947"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-018000_M15_203"
+    start_date: "20220310"
+    route_id: "M15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.759388
+    longitude: -73.96524
+    bearing: 234.46233
+  }
+  timestamp: 1646900240
+  stop_id: "401765"
+  vehicle {
+    id: "MTA NYCT_3947"
+  }
+}
+id: "MTA NYCT_3931"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-019200_M101_4"
+    start_date: "20220310"
+    route_id: "M102"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.748756
+    longitude: -73.9759
+    bearing: 54.196655
+  }
+  timestamp: 1646900249
+  stop_id: "402678"
+  vehicle {
+    id: "MTA NYCT_3931"
+  }
+}
+id: "MTA NYCT_3933"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-018000_M15_201"
+    start_date: "20220310"
+    route_id: "M15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.73436
+    longitude: -73.98038
+    bearing: 53.88066
+  }
+  timestamp: 1646900246
+  stop_id: "401689"
+  vehicle {
+    id: "MTA NYCT_3933"
+  }
+}
+id: "MTA NYCT_2607"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-018000_SIM1_543"
+    start_date: "20220310"
+    route_id: "SIM1C"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.571342
+    longitude: -74.108765
+    bearing: 45.516163
+  }
+  timestamp: 1646900243
+  stop_id: "201630"
+  vehicle {
+    id: "MTA NYCT_2607"
+  }
+}
+id: "MTA NYCT_8102"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-160000_Q3_11"
+    start_date: "20220309"
+    route_id: "Q3"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.65769
+    longitude: -73.79353
+    bearing: 296.56506
+  }
+  timestamp: 1646900244
+  stop_id: "503705"
+  vehicle {
+    id: "MTA NYCT_8102"
+  }
+}
+id: "MTA NYCT_9435"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-019000_SBS60_901"
+    start_date: "20220310"
+    route_id: "M60+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.810444
+    longitude: -73.951836
+    bearing: 337.32864
+  }
+  timestamp: 1646900246
+  stop_id: "402659"
+  vehicle {
+    id: "MTA NYCT_9435"
+  }
+}
+id: "MTA NYCT_8117"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-015000_MISC_103"
+    start_date: "20220310"
+    route_id: "S78"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.522545
+    longitude: -74.239265
+    bearing: 85.23636
+  }
+  timestamp: 1646900260
+  stop_id: "203543"
+  vehicle {
+    id: "MTA NYCT_8117"
+  }
+}
+id: "MTA NYCT_8118"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-018000_S78_230"
+    start_date: "20220310"
+    route_id: "S78"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.58757
+    longitude: -74.09118
+    bearing: 228.42604
+  }
+  timestamp: 1646900236
+  stop_id: "201108"
+  vehicle {
+    id: "MTA NYCT_8118"
+  }
+}
+id: "MTA NYCT_8139"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-015000_S7484_210"
+    start_date: "20220310"
+    route_id: "S74"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.632355
+    longitude: -74.07709
+    bearing: 63.434948
+  }
+  timestamp: 1646900248
+  stop_id: "201066"
+  vehicle {
+    id: "MTA NYCT_8139"
+  }
+}
+id: "MTA NYCT_8138"
+vehicle {
+  trip {
+    trip_id: "CH_A2-Weekday-SDon-015000_MISC_104"
+    start_date: "20220310"
+    route_id: "S74"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.52953
+    longitude: -74.231064
+    bearing: 2.7927024
+  }
+  timestamp: 1646900245
+  stop_id: "905180"
+  vehicle {
+    id: "MTA NYCT_8138"
+  }
+}
+id: "MTA NYCT_676"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-019500_BX21_401"
+    start_date: "20220310"
+    route_id: "BX21"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.84682
+    longitude: -73.844666
+    bearing: 96.57457
+  }
+  timestamp: 1646900237
+  stop_id: "101435"
+  vehicle {
+    id: "MTA NYCT_676"
+  }
+}
+id: "MTA NYCT_7649"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-018000_B41_204"
+    start_date: "20220310"
+    route_id: "B41"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.660088
+    longitude: -73.96061
+    bearing: 272.8624
+  }
+  timestamp: 1646900264
+  stop_id: "303306"
+  vehicle {
+    id: "MTA NYCT_7649"
+  }
+}
+id: "MTA NYCT_7636"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-015500_B41_201"
+    start_date: "20220310"
+    route_id: "B41"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.69538
+    longitude: -73.99091
+    bearing: 105.83239
+  }
+  timestamp: 1646900250
+  stop_id: "307403"
+  vehicle {
+    id: "MTA NYCT_7636"
+  }
+}
+id: "MTA NYCT_691"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-015100_BX36_702"
+    start_date: "20220310"
+    route_id: "BX36"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.84911
+    longitude: -73.93801
+    bearing: 168.9247
+  }
+  timestamp: 1646900264
+  stop_id: "403667"
+  vehicle {
+    id: "MTA NYCT_691"
+  }
+}
+id: "MTA NYCT_7691"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-019600_B12_2"
+    start_date: "20220310"
+    route_id: "B12"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.676693
+    longitude: -73.90071
+    bearing: 199.65382
+  }
+  timestamp: 1646900254
+  stop_id: "301386"
+  vehicle {
+    id: "MTA NYCT_7691"
+  }
+}
+id: "MTA NYCT_7689"
+vehicle {
+  trip {
+    trip_id: "EN_A2-Weekday-SDon-016500_B15_105"
+    start_date: "20220310"
+    route_id: "B15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.666306
+    longitude: -73.88278
+    bearing: 22.658508
+  }
+  timestamp: 1646900263
+  stop_id: "301146"
+  vehicle {
+    id: "MTA NYCT_7689"
+  }
+}
+id: "MTA NYCT_8049"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-019000_MISC_701"
+    start_date: "20220310"
+    route_id: "Q3"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.712345
+    longitude: -73.78504
+    bearing: 13.572897
+  }
+  timestamp: 1646900257
+  stop_id: "500209"
+  vehicle {
+    id: "MTA NYCT_8049"
+  }
+}
+id: "MTA NYCT_8067"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-019000_Q3_1"
+    start_date: "20220310"
+    route_id: "Q3"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.662888
+    longitude: -73.7845
+    bearing: 343.55963
+  }
+  timestamp: 1646900262
+  stop_id: "503698"
+  vehicle {
+    id: "MTA NYCT_8067"
+  }
+}
+id: "MTA NYCT_8056"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-017500_Q17_301"
+    start_date: "20220310"
+    route_id: "Q17"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.73982
+    longitude: -73.81513
+    bearing: 94.398705
+  }
+  timestamp: 1646900260
+  stop_id: "501355"
+  vehicle {
+    id: "MTA NYCT_8056"
+  }
+}
+id: "MTA NYCT_2745"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-012000_SIM1_542"
+    start_date: "20220310"
+    route_id: "SIM1C"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.76595
+    longitude: -73.97685
+    bearing: 156.3499
+  }
+  timestamp: 1646900242
+  stop_id: "404923"
+  vehicle {
+    id: "MTA NYCT_2745"
+  }
+}
+id: "MTA NYCT_5816"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-015300_M101_2"
+    start_date: "20220310"
+    route_id: "M101"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.833305
+    longitude: -73.9417
+    bearing: 54.027615
+  }
+  timestamp: 1646900245
+  stop_id: "405073"
+  vehicle {
+    id: "MTA NYCT_5816"
+  }
+}
+id: "MTA NYCT_8670"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-019300_BX15_803"
+    start_date: "20220310"
+    route_id: "BX15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.839443
+    longitude: -73.9003
+    bearing: 55.17551
+  }
+  timestamp: 1646900261
+  stop_id: "104599"
+  vehicle {
+    id: "MTA NYCT_8670"
+  }
+}
+id: "MTA NYCT_8679"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-018700_BX15_801"
+    start_date: "20220310"
+    route_id: "BX15"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.80262
+    longitude: -73.93323
+    bearing: 335.77225
+  }
+  timestamp: 1646900258
+  stop_id: "403674"
+  vehicle {
+    id: "MTA NYCT_8679"
+  }
+}
+id: "MTA NYCT_7338"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-013800_B46_402"
+    start_date: "20220310"
+    route_id: "B46"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.709446
+    longitude: -73.959595
+    bearing: 339.25
+  }
+  timestamp: 1646900246
+  stop_id: "307919"
+  vehicle {
+    id: "MTA NYCT_7338"
+  }
+}
+id: "MTA NYCT_7376"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-017000_Q20_253"
+    start_date: "20220310"
+    route_id: "Q20A"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.73555
+    longitude: -73.82525
+    bearing: 264.83807
+  }
+  timestamp: 1646900262
+  stop_id: "505031"
+  vehicle {
+    id: "MTA NYCT_7376"
+  }
+}
+id: "MTA NYCT_7375"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-018500_SBS44_908"
+    start_date: "20220310"
+    route_id: "Q44+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.708435
+    longitude: -73.8181
+    bearing: 135.72522
+  }
+  timestamp: 1646900242
+  stop_id: "505033"
+  vehicle {
+    id: "MTA NYCT_7375"
+  }
+}
+id: "MTA NYCT_8699"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-018000_MISC_202"
+    start_date: "20220310"
+    route_id: "S48"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.630352
+    longitude: -74.1664
+    bearing: 87.84262
+  }
+  timestamp: 1646900244
+  stop_id: "201576"
+  vehicle {
+    id: "MTA NYCT_8699"
+  }
+}
+id: "MTA NYCT_7392"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-021500_SBS44_901"
+    start_date: "20220310"
+    route_id: "Q44+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.70388
+    longitude: -73.79413
+    bearing: 203.77235
+  }
+  timestamp: 1646900254
+  stop_id: "503618"
+  vehicle {
+    id: "MTA NYCT_7392"
+  }
+}
+id: "MTA NYCT_7399"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-012500_SBS44_906"
+    start_date: "20220310"
+    route_id: "Q44+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.84237
+    longitude: -73.87717
+    bearing: 162.5907
+  }
+  timestamp: 1646900247
+  stop_id: "100646"
+  vehicle {
+    id: "MTA NYCT_7399"
+  }
+}
+id: "MTA NYCT_7386"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-017000_SBS44_905"
+    start_date: "20220310"
+    route_id: "Q44+"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.773125
+    longitude: -73.82648
+    bearing: 262.4316
+  }
+  timestamp: 1646900239
+  stop_id: "501138"
+  vehicle {
+    id: "MTA NYCT_7386"
+  }
+}
+id: "MTA NYCT_3805"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-018100_SBS14_701"
+    start_date: "20220310"
+    route_id: "M14D+"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.736515
+    longitude: -73.99486
+    bearing: 157.09036
+  }
+  timestamp: 1646900237
+  stop_id: "403895"
+  vehicle {
+    id: "MTA NYCT_3805"
+  }
+}
+id: "MTA NYCT_4241"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-015000_B46_401"
+    start_date: "20220310"
+    route_id: "B46"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.609085
+    longitude: -73.921524
+    bearing: 138.08875
+  }
+  timestamp: 1646900241
+  stop_id: "307920"
+  vehicle {
+    id: "MTA NYCT_4241"
+  }
+}
+id: "MTA NYCT_8620"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-019000_BX24_201"
+    start_date: "20220310"
+    route_id: "BX24"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.842033
+    longitude: -73.84402
+    bearing: 313.83087
+  }
+  timestamp: 1646900253
+  stop_id: "104375"
+  vehicle {
+    id: "MTA NYCT_8620"
+  }
+}
+id: "MTA NYCT_8623"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-019600_BX41_901"
+    start_date: "20220310"
+    route_id: "BX39"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.879166
+    longitude: -73.86516
+    bearing: 62.10273
+  }
+  timestamp: 1646900237
+  stop_id: "102757"
+  vehicle {
+    id: "MTA NYCT_8623"
+  }
+}
+id: "MTA NYCT_8622"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-018000_BX402_2"
+    start_date: "20220310"
+    route_id: "BX40"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.816322
+    longitude: -73.808914
+    bearing: 113.90988
+  }
+  timestamp: 1646900264
+  stop_id: "104228"
+  vehicle {
+    id: "MTA NYCT_8622"
+  }
+}
+id: "MTA NYCT_327"
+vehicle {
+  trip {
+    trip_id: "WF_A2-Weekday-SDon-019500_BX21_402"
+    start_date: "20220310"
+    route_id: "BX21"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.81418
+    longitude: -73.92123
+    bearing: 27.18111
+  }
+  timestamp: 1646900251
+  stop_id: "104515"
+  vehicle {
+    id: "MTA NYCT_327"
+  }
+}
+id: "MTA NYCT_8638"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-018000_BX22_401"
+    start_date: "20220310"
+    route_id: "BX22"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.84473
+    longitude: -73.865944
+    bearing: 110.67442
+  }
+  timestamp: 1646900265
+  stop_id: "101497"
+  vehicle {
+    id: "MTA NYCT_8638"
+  }
+}
+id: "MTA NYCT_8639"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019500_Q36_501"
+    start_date: "20220310"
+    route_id: "Q36"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.726467
+    longitude: -73.71638
+    bearing: 188.55556
+  }
+  timestamp: 1646900265
+  stop_id: "501949"
+  vehicle {
+    id: "MTA NYCT_8639"
+  }
+}
+id: "MTA NYCT_8631"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-016000_BX238_601"
+    start_date: "20220310"
+    route_id: "BX28"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.860863
+    longitude: -73.82279
+    bearing: 18.434948
+  }
+  timestamp: 1646900264
+  stop_id: "101732"
+  vehicle {
+    id: "MTA NYCT_8631"
+  }
+}
+id: "MTA NYCT_8627"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-017300_BX41_902"
+    start_date: "20220310"
+    route_id: "BX41"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.82645
+    longitude: -73.91267
+    bearing: 242.90445
+  }
+  timestamp: 1646900249
+  stop_id: "104293"
+  vehicle {
+    id: "MTA NYCT_8627"
+  }
+}
+id: "MTA NYCT_8667"
+vehicle {
+  trip {
+    trip_id: "KB_A2-Weekday-SDon-018000_BX15_804"
+    start_date: "20220310"
+    route_id: "BX15"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.812363
+    longitude: -73.92052
+    bearing: 231.009
+  }
+  timestamp: 1646900245
+  stop_id: "902178"
+  vehicle {
+    id: "MTA NYCT_8667"
+  }
+}
+id: "MTA NYCT_8652"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019400_Q46_601"
+    start_date: "20220310"
+    route_id: "Q46"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.71536
+    longitude: -73.83223
+    bearing: 142.3443
+  }
+  timestamp: 1646900262
+  stop_id: "504545"
+  vehicle {
+    id: "MTA NYCT_8652"
+  }
+}
+id: "MTA NYCT_8657"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-019000_Q43_552"
+    start_date: "20220310"
+    route_id: "Q43"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.733418
+    longitude: -73.73728
+    bearing: 185.71059
+  }
+  timestamp: 1646900237
+  stop_id: "502102"
+  vehicle {
+    id: "MTA NYCT_8657"
+  }
+}
+id: "MTA NYCT_7318"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-018000_B44_302"
+    start_date: "20220310"
+    route_id: "B44"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.6481
+    longitude: -73.949295
+    bearing: 277.18054
+  }
+  timestamp: 1646900236
+  stop_id: "303474"
+  vehicle {
+    id: "MTA NYCT_7318"
+  }
+}
+id: "MTA NYCT_7317"
+vehicle {
+  trip {
+    trip_id: "FB_A2-Weekday-SDon-018300_B41_202"
+    start_date: "20220310"
+    route_id: "B41"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.63434
+    longitude: -73.94926
+    bearing: 136.43808
+  }
+  timestamp: 1646900241
+  stop_id: "303234"
+  vehicle {
+    id: "MTA NYCT_7317"
+  }
+}
+id: "MTA NYCT_362"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-019200_B68_952"
+    start_date: "20220310"
+    route_id: "B68"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.57772
+    longitude: -73.96094
+    bearing: 12.528808
+  }
+  timestamp: 1646900244
+  stop_id: "308542"
+  vehicle {
+    id: "MTA NYCT_362"
+  }
+}
+id: "MTA NYCT_6876"
+vehicle {
+  trip {
+    trip_id: "QV_A2-Weekday-SDon-159900_MISC_336"
+    start_date: "20220309"
+    route_id: "Q27"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.715122
+    longitude: -73.73556
+    bearing: 264.927
+  }
+  timestamp: 1646900261
+  stop_id: "500126"
+  vehicle {
+    id: "MTA NYCT_6876"
+  }
+}
+id: "MTA NYCT_7493"
+vehicle {
+  trip {
+    trip_id: "JA_A2-Weekday-SDon-161200_MISC_889"
+    start_date: "20220309"
+    route_id: "Q17"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.713253
+    longitude: -73.781425
+    bearing: 193.586
+  }
+  timestamp: 1646900256
+  stop_id: "501414"
+  vehicle {
+    id: "MTA NYCT_7493"
+  }
+}
+id: "MTA NYCT_3920"
+vehicle {
+  trip {
+    trip_id: "MQ_A2-Weekday-SDon-017000_SBS60_904"
+    start_date: "20220310"
+    route_id: "M60+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.76968
+    longitude: -73.91603
+    bearing: 349.69516
+  }
+  timestamp: 1646900245
+  stop_id: "505254"
+  vehicle {
+    id: "MTA NYCT_3920"
+  }
+}
+id: "MTA NYCT_3926"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-018600_M101_5"
+    start_date: "20220310"
+    route_id: "M102"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.8004
+    longitude: -73.94585
+    bearing: 337.4054
+  }
+  timestamp: 1646900247
+  stop_id: "401990"
+  vehicle {
+    id: "MTA NYCT_3926"
+  }
+}
+id: "MTA NYCT_3929"
+vehicle {
+  trip {
+    trip_id: "OH_A2-Weekday-SDon-013000_M101_3"
+    start_date: "20220310"
+    route_id: "M101"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.729103
+    longitude: -73.990234
+    bearing: 234.92447
+  }
+  timestamp: 1646900237
+  stop_id: "903147"
+  vehicle {
+    id: "MTA NYCT_3929"
+  }
+}
+id: "MTA NYCT_418"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-019500_B43_452"
+    start_date: "20220310"
+    route_id: "B43"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.663284
+    longitude: -73.96071
+    bearing: 3.17983
+  }
+  timestamp: 1646900259
+  stop_id: "303711"
+  vehicle {
+    id: "MTA NYCT_418"
+  }
+}
+id: "MTA NYCT_8716"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-018000_S4696_40"
+    start_date: "20220310"
+    route_id: "S46"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.633408
+    longitude: -74.146194
+    bearing: 252.96223
+  }
+  timestamp: 1646900249
+  stop_id: "202600"
+  vehicle {
+    id: "MTA NYCT_8716"
+  }
+}
+id: "MTA NYCT_420"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-019000_B63_651"
+    start_date: "20220310"
+    route_id: "B63"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.673416
+    longitude: -73.982765
+    bearing: 230.0131
+  }
+  timestamp: 1646900187
+  stop_id: "308216"
+  vehicle {
+    id: "MTA NYCT_420"
+  }
+}
+id: "MTA NYCT_421"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-018000_B35_502"
+    start_date: "20220310"
+    route_id: "B35"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.65035
+    longitude: -73.958824
+    bearing: 10.784298
+  }
+  timestamp: 1646900255
+  stop_id: "302701"
+  vehicle {
+    id: "MTA NYCT_421"
+  }
+}
+id: "MTA NYCT_8704"
+vehicle {
+  trip {
+    trip_id: "CA_A2-Weekday-SDon-018000_S4090_2"
+    start_date: "20220310"
+    route_id: "S40"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.636715
+    longitude: -74.16615
+    bearing: 267.8497
+  }
+  timestamp: 1646900263
+  stop_id: "202824"
+  vehicle {
+    id: "MTA NYCT_8704"
+  }
+}
+id: "MTA NYCT_438"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-018000_B35_501"
+    start_date: "20220310"
+    route_id: "B35"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.64981
+    longitude: -73.96211
+    bearing: 194.66971
+  }
+  timestamp: 1646900251
+  stop_id: "302761"
+  vehicle {
+    id: "MTA NYCT_438"
+  }
+}
+id: "MTA NYCT_8739"
+vehicle {
+  trip {
+    trip_id: "GH_A2-Weekday-SDon-017000_BX12_152"
+    start_date: "20220310"
+    route_id: "BX12"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.8627
+    longitude: -73.90274
+    bearing: 180.0
+  }
+  timestamp: 1646900251
+  stop_id: "104226"
+  vehicle {
+    id: "MTA NYCT_8739"
+  }
+}
+id: "MTA NYCT_8727"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-018000_S6292_472"
+    start_date: "20220310"
+    route_id: "S62"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.608833
+    longitude: -74.153435
+    bearing: 192.3167
+  }
+  timestamp: 1646900247
+  stop_id: "203200"
+  vehicle {
+    id: "MTA NYCT_8727"
+  }
+}
+id: "MTA NYCT_7426"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-015500_SBS44_907"
+    start_date: "20220310"
+    route_id: "Q44+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.78693
+    longitude: -73.82347
+    bearing: 80.53768
+  }
+  timestamp: 1646900249
+  stop_id: "103767"
+  vehicle {
+    id: "MTA NYCT_7426"
+  }
+}
+id: "MTA NYCT_7415"
+vehicle {
+  trip {
+    trip_id: "CS_A2-Weekday-SDon-158000_SBS44_976"
+    start_date: "20220309"
+    route_id: "Q44+"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.70202
+    longitude: -73.80167
+    bearing: 11.689369
+  }
+  timestamp: 1646900259
+  stop_id: "504985"
+  vehicle {
+    id: "MTA NYCT_7415"
+  }
+}
+id: "MTA NYCT_473"
+vehicle {
+  trip {
+    trip_id: "JG_A2-Weekday-SDon-019000_B63_652"
+    start_date: "20220310"
+    route_id: "B63"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.62172
+    longitude: -74.02601
+    bearing: 48.35453
+  }
+  timestamp: 1646900254
+  stop_id: "305341"
+  vehicle {
+    id: "MTA NYCT_473"
+  }
+}
+id: "MTA NYCT_2541"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-009000_SIM1_540"
+    start_date: "20220310"
+    route_id: "SIM1C"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.5612
+    longitude: -74.17078
+    bearing: 171.31026
+  }
+  timestamp: 1646900253
+  stop_id: "905046"
+  vehicle {
+    id: "MTA NYCT_2541"
+  }
+}
+id: "MTA NYCT_3869"
+vehicle {
+  trip {
+    trip_id: "MV_A2-Weekday-SDon-015500_M104_101"
+    start_date: "20220310"
+    route_id: "M104"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.756386
+    longitude: -73.98983
+    bearing: 156.71072
+  }
+  timestamp: 1646900250
+  stop_id: "405374"
+  vehicle {
+    id: "MTA NYCT_3869"
+  }
+}
+id: "MTA NYCT_2553"
+vehicle {
+  trip {
+    trip_id: "YU_A2-Weekday-SDon-015000_SIM1_541"
+    start_date: "20220310"
+    route_id: "SIM1C"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.605812
+    longitude: -74.07785
+    bearing: 257.4712
+  }
+  timestamp: 1646900252
+  stop_id: "203728"
+  vehicle {
+    id: "MTA NYCT_2553"
+  }
+}
+id: "MTABC_3810"
+vehicle {
+  trip {
+    trip_id: "32245569-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q10"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.71115
+    longitude: -73.82835
+    bearing: 135.0
+  }
+  timestamp: 1646900250
+  stop_id: "550347"
+  vehicle {
+    id: "MTABC_3810"
+  }
+}
+id: "MTABC_3802"
+vehicle {
+  trip {
+    trip_id: "32246497-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q60"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.740803
+    longitude: -73.89986
+    bearing: 353.2257
+  }
+  timestamp: 1646900263
+  stop_id: "551628"
+  vehicle {
+    id: "MTABC_3802"
+  }
+}
+id: "MTABC_7457"
+vehicle {
+  trip {
+    trip_id: "32049205-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q53+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.745747
+    longitude: -73.90333
+    bearing: 244.36841
+  }
+  timestamp: 1646900253
+  stop_id: "553332"
+  vehicle {
+    id: "MTABC_7457"
+  }
+}
+id: "MTABC_7454"
+vehicle {
+  trip {
+    trip_id: "32049200-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q53+"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.713963
+    longitude: -73.85978
+    bearing: 270.0
+  }
+  timestamp: 1646900253
+  stop_id: "553141"
+  vehicle {
+    id: "MTABC_7454"
+  }
+}
+id: "MTABC_7446"
+vehicle {
+  trip {
+    trip_id: "32049211-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q53+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.65454
+    longitude: -73.83863
+    bearing: 103.637856
+  }
+  timestamp: 1646900259
+  stop_id: "553376"
+  vehicle {
+    id: "MTABC_7446"
+  }
+}
+id: "MTABC_3716"
+vehicle {
+  trip {
+    trip_id: "32246599-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q60"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.701756
+    longitude: -73.807945
+    bearing: 83.811386
+  }
+  timestamp: 1646900238
+  stop_id: "504198"
+  vehicle {
+    id: "MTABC_3716"
+  }
+}
+id: "MTABC_3713"
+vehicle {
+  trip {
+    trip_id: "32240237-FRPA2-FR_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q35"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.600945
+    longitude: -73.91268
+    bearing: 137.66777
+  }
+  timestamp: 1646900237
+  stop_id: "350013"
+  vehicle {
+    id: "MTABC_3713"
+  }
+}
+id: "MTABC_3783"
+vehicle {
+  trip {
+    trip_id: "32035263-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q114"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.702934
+    longitude: -73.7977
+    bearing: 194.08635
+  }
+  timestamp: 1646900236
+  stop_id: "505264"
+  vehicle {
+    id: "MTABC_3783"
+  }
+}
+id: "MTABC_3779"
+vehicle {
+  trip {
+    trip_id: "32034495-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q110"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.715355
+    longitude: -73.74834
+    bearing: 12.068336
+  }
+  timestamp: 1646900261
+  stop_id: "552245"
+  vehicle {
+    id: "MTABC_3779"
+  }
+}
+id: "MTABC_3771"
+vehicle {
+  trip {
+    trip_id: "32035271-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q114"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.61508
+    longitude: -73.743355
+    bearing: 241.6378
+  }
+  timestamp: 1646900246
+  stop_id: "552457"
+  vehicle {
+    id: "MTABC_3771"
+  }
+}
+id: "MTABC_3765"
+vehicle {
+  trip {
+    trip_id: "32034720-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q111"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.707527
+    longitude: -73.80334
+    bearing: 18.004162
+  }
+  timestamp: 1646900251
+  stop_id: "552363"
+  vehicle {
+    id: "MTABC_3765"
+  }
+}
+id: "MTABC_605"
+vehicle {
+  trip {
+    trip_id: "32040092-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q66"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.750782
+    longitude: -73.94111
+    bearing: 334.782
+  }
+  timestamp: 1646900263
+  stop_id: "982098"
+  vehicle {
+    id: "MTABC_605"
+  }
+}
+id: "MTABC_4563"
+vehicle {
+  trip {
+    trip_id: "32246597-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q60"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.761166
+    longitude: -73.96368
+    bearing: 158.75467
+  }
+  timestamp: 1646900262
+  stop_id: "450338"
+  vehicle {
+    id: "MTABC_4563"
+  }
+}
+id: "MTABC_7478"
+vehicle {
+  trip {
+    trip_id: "32048781-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q70+"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.744858
+    longitude: -73.90334
+    bearing: 166.39946
+  }
+  timestamp: 1646900254
+  stop_id: "553332"
+  vehicle {
+    id: "MTABC_7478"
+  }
+}
+id: "MTABC_539"
+vehicle {
+  trip {
+    trip_id: "32039185-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q65"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.78434
+    longitude: -73.85682
+    bearing: 274.3351
+  }
+  timestamp: 1646900244
+  stop_id: "551785"
+  vehicle {
+    id: "MTABC_539"
+  }
+}
+id: "MTABC_566"
+vehicle {
+  trip {
+    trip_id: "32040093-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q66"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.75574
+    longitude: -73.88444
+    bearing: 186.00261
+  }
+  timestamp: 1646900238
+  stop_id: "551879"
+  vehicle {
+    id: "MTABC_566"
+  }
+}
+id: "MTABC_4489"
+vehicle {
+  trip {
+    trip_id: "32046242-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q33"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.746975
+    longitude: -73.8905
+    bearing: 5.9103136
+  }
+  timestamp: 1646900263
+  stop_id: "503311"
+  vehicle {
+    id: "MTABC_4489"
+  }
+}
+id: "MTABC_4643"
+vehicle {
+  trip {
+    trip_id: "32245834-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q10"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.685272
+    longitude: -73.82368
+    bearing: 296.23593
+  }
+  timestamp: 1646900250
+  stop_id: "550318"
+  vehicle {
+    id: "MTABC_4643"
+  }
+}
+id: "MTABC_4640"
+vehicle {
+  trip {
+    trip_id: "32245570-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q10"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.662506
+    longitude: -73.806915
+    bearing: 72.60469
+  }
+  timestamp: 1646900254
+  stop_id: "550289"
+  vehicle {
+    id: "MTABC_4640"
+  }
+}
+id: "MTABC_3653"
+vehicle {
+  trip {
+    trip_id: "32240304-FRPA2-FR_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q35"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.570477
+    longitude: -73.8728
+    bearing: 24.950983
+  }
+  timestamp: 1646900242
+  stop_id: "550740"
+  vehicle {
+    id: "MTABC_3653"
+  }
+}
+id: "MTABC_3645"
+vehicle {
+  trip {
+    trip_id: "32245571-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q10"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.64785
+    longitude: -73.78074
+    bearing: 174.7462
+  }
+  timestamp: 1646900263
+  stop_id: "503996"
+  vehicle {
+    id: "MTABC_3645"
+  }
+}
+id: "MTABC_3631"
+vehicle {
+  trip {
+    trip_id: "32033714-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q64"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.72183
+    longitude: -73.843864
+    bearing: 292.83365
+  }
+  timestamp: 1646900253
+  stop_id: "551810"
+  vehicle {
+    id: "MTABC_3631"
+  }
+}
+id: "MTABC_3697"
+vehicle {
+  trip {
+    trip_id: "32035253-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q114"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.595276
+    longitude: -73.754745
+    bearing: 178.42757
+  }
+  timestamp: 1646900262
+  stop_id: "550818"
+  vehicle {
+    id: "MTABC_3697"
+  }
+}
+id: "MTABC_3685"
+vehicle {
+  trip {
+    trip_id: "32247829-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q06"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.706463
+    longitude: -73.79439
+    bearing: 304.0984
+  }
+  timestamp: 1646900236
+  stop_id: "550035"
+  vehicle {
+    id: "MTABC_3685"
+  }
+}
+id: "MTABC_3686"
+vehicle {
+  trip {
+    trip_id: "32033744-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q64"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.730732
+    longitude: -73.80507
+    bearing: 86.840195
+  }
+  timestamp: 1646900266
+  stop_id: "982088"
+  vehicle {
+    id: "MTABC_3686"
+  }
+}
+id: "MTABC_3682"
+vehicle {
+  trip {
+    trip_id: "32034153-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q110"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.710712
+    longitude: -73.77091
+    bearing: 213.54611
+  }
+  timestamp: 1646900258
+  stop_id: "552221"
+  vehicle {
+    id: "MTABC_3682"
+  }
+}
+id: "MTABC_3680"
+vehicle {
+  trip {
+    trip_id: "32034711-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q111"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.659782
+    longitude: -73.763985
+    bearing: 173.02724
+  }
+  timestamp: 1646900239
+  stop_id: "552310"
+  vehicle {
+    id: "MTABC_3680"
+  }
+}
+id: "MTABC_3670"
+vehicle {
+  trip {
+    trip_id: "32246598-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q60"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.74269
+    longitude: -73.91281
+    bearing: 173.35847
+  }
+  timestamp: 1646900238
+  stop_id: "551619"
+  vehicle {
+    id: "MTABC_3670"
+  }
+}
+id: "MTABC_3672"
+vehicle {
+  trip {
+    trip_id: "32240083-FRPA2-FR_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q11"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.733234
+    longitude: -73.871346
+    bearing: 356.32376
+  }
+  timestamp: 1646900243
+  stop_id: "982113"
+  vehicle {
+    id: "MTABC_3672"
+  }
+}
+id: "MTABC_213"
+vehicle {
+  trip {
+    trip_id: "32039412-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q25"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.752705
+    longitude: -73.82133
+    bearing: 318.10886
+  }
+  timestamp: 1646900251
+  stop_id: "501374"
+  vehicle {
+    id: "MTABC_213"
+  }
+}
+id: "MTABC_214"
+vehicle {
+  trip {
+    trip_id: "32040085-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q66"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.75447
+    longitude: -73.8956
+    bearing: 6.616981
+  }
+  timestamp: 1646900245
+  stop_id: "551870"
+  vehicle {
+    id: "MTABC_214"
+  }
+}
+id: "MTABC_205"
+vehicle {
+  trip {
+    trip_id: "32039557-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q25"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.761463
+    longitude: -73.831055
+    bearing: 116.37842
+  }
+  timestamp: 1646900239
+  stop_id: "500994"
+  vehicle {
+    id: "MTABC_205"
+  }
+}
+id: "MTABC_201"
+vehicle {
+  trip {
+    trip_id: "32039924-CPPA2-CP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q66"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.760372
+    longitude: -73.83053
+    bearing: 115.470856
+  }
+  timestamp: 1646900248
+  stop_id: "500994"
+  vehicle {
+    id: "MTABC_201"
+  }
+}
+id: "MTABC_4161"
+vehicle {
+  trip {
+    trip_id: "32247716-JKPA2-JK_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q06"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.70179
+    longitude: -73.80734
+    bearing: 0.0
+  }
+  timestamp: 1646900238
+  stop_id: "553131"
+  vehicle {
+    id: "MTABC_4161"
+  }
+}
+id: "MTABC_3542"
+vehicle {
+  trip {
+    trip_id: "32047047-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q67"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.72771
+    longitude: -73.91296
+    bearing: 352.50415
+  }
+  timestamp: 1646900253
+  stop_id: "551947"
+  vehicle {
+    id: "MTABC_3542"
+  }
+}
+id: "MTABC_3525"
+vehicle {
+  trip {
+    trip_id: "32035246-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q114"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.704147
+    longitude: -73.800644
+    bearing: 301.47946
+  }
+  timestamp: 1646900241
+  stop_id: "552409"
+  vehicle {
+    id: "MTABC_3525"
+  }
+}
+id: "MTABC_3517"
+vehicle {
+  trip {
+    trip_id: "32035282-BPPA2-BP_A2-Weekday-01-SDon"
+    start_date: "20220310"
+    route_id: "Q114"
+    direction_id: 0
+  }
+  position {
+    latitude: 40.6187
+    longitude: -73.74058
+    bearing: 355.5526
+  }
+  timestamp: 1646900253
+  stop_id: "552463"
+  vehicle {
+    id: "MTABC_3517"
+  }
+}
+id: "MTABC_3578"
+vehicle {
+  trip {
+    trip_id: "32046095-LGPA2-LG_A2-Weekday-01"
+    start_date: "20220310"
+    route_id: "Q101"
+    direction_id: 1
+  }
+  position {
+    latitude: 40.752087
+    longitude: -73.93046
+    bearing: 180.80531
+  }
+  timestamp: 1646900255
+  stop_id: "552073"
+  vehicle {
+    id: "MTABC_3578"
+  }
+}
