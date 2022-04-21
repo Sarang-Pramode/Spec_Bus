@@ -1,0 +1,4 @@
+requests
+gtfs-realtime-bindings==0.0.7
+pyarrow
+pandas
