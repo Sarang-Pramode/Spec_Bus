@@ -3,5 +3,5 @@ AWS_Lambda/.aws-sam
 example.parquet
 Parse_Alert.ipynb
 .ipynb_checkpoints
-.vscode
+.vscode/
 AWS_S3/S3_tests.ipynb
