@@ -1,0 +1,12 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "lambda-test-app"
+s3_bucket = "s3-script-tests6544a2ec-2be3-4d25-ab1e-1e3494d732c7"
+s3_prefix = "lambda-test-app"
+region = "us-east-2"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = []
