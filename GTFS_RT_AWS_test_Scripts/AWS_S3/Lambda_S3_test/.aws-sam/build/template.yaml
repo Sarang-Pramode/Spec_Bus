@@ -1,0 +1,12 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  S3Test:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: Lambda_S3_Test_app.lambda_handler
+      Runtime: python3.8
+      Timeout: 30
+      CodeUri: S3Test
+    Metadata:
+      SamResourceId: S3Test
