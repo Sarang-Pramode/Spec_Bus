@@ -1,4 +1,4 @@
-#import pandas as pd
+import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
 from datetime import datetime
@@ -39,10 +39,17 @@ def lambda_handler(event, context):
         names = Example_schema
     )
 
-    table = pa.Table.from_batches([batch])
-    pq.write_table(table, f'/tmp/Examples.parquet')
+    dataframe = pd.DataFrame([
+    [datetime(2019, 9, 3, 9, 0, 0), 1, 'first@example.com'],
+    [datetime(2019, 9, 3, 10, 0, 0), 1, 'second@example.com'],
+    [datetime(2019, 9, 3, 11, 0, 0), 1, 'third@example.com'],
+    ], columns = ['timestamp', 'id', 'email'])
 
-    Upload_to_s3(f'/tmp/Examples.parquet')
+    table = pa.Table.from_batches([batch])
+    table_from_pandas = pa.Table.from_pandas(dataframe)
+    pq.write_table(table_from_pandas, f'/tmp/Examples_pandas.parquet')
+
+    Upload_to_s3(f'/tmp/Examples_pandas.parquet')
 
     return{
         "statusCode": 200,
